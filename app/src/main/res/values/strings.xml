@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hw18-0036503447</string>
+    <string name="send_to">Send to:</string>
+    <string name="title">Title:</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
